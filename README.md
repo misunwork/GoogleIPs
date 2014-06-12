@@ -1,10 +1,96 @@
 ## Google 全球 IP 地址库
 
 
-微博: [@SadieYuCN](http://weibo.com/sadieyucn)
+微博: [@SadieYuCN](http://weibo.com/u/3167337765)
 
 <table>
  <tbody>
+ <tr>
+   <th colspan="6">Hong Kong</th>
+  </tr>
+  <tr>
+   <td><a href="http://218.189.25.129" target="_blank">218.189.25.129</a></td>
+   <td><a href="http://218.189.25.130" target="_blank">218.189.25.130</a></td>
+   <td><a href="http://218.189.25.131" target="_blank">218.189.25.131</a></td>
+   <td><a href="http://218.189.25.132" target="_blank">218.189.25.132</a></td>
+   <td><a href="http://218.189.25.133" target="_blank">218.189.25.133</a></td>
+   <td><a href="http://218.189.25.134" target="_blank">218.189.25.134</a></td>
+  </tr>
+  <tr>
+   <td><a href="http://218.189.25.135" target="_blank">218.189.25.135</a></td>
+   <td><a href="http://218.189.25.136" target="_blank">218.189.25.136</a></td>
+   <td><a href="http://218.189.25.137" target="_blank">218.189.25.137</a></td>
+   <td><a href="http://218.189.25.138" target="_blank">218.189.25.138</a></td>
+   <td><a href="http://218.189.25.139" target="_blank">218.189.25.139</a></td>
+   <td><a href="http://218.189.25.140" target="_blank">218.189.25.140</a></td>
+  </tr>
+  <tr>
+   <td><a href="http://218.189.25.141" target="_blank">218.189.25.141</a></td>
+   <td><a href="http://218.189.25.142" target="_blank">218.189.25.142</a></td>
+   <td><a href="http://218.189.25.143" target="_blank">218.189.25.143</a></td>
+   <td><a href="http://218.189.25.144" target="_blank">218.189.25.144</a></td>
+   <td><a href="http://218.189.25.145" target="_blank">218.189.25.145</a></td>
+   <td><a href="http://218.189.25.146" target="_blank">218.189.25.146</a></td>
+  </tr>
+  <tr>
+   <td><a href="http://218.189.25.147" target="_blank">218.189.25.147</a></td>
+   <td><a href="http://218.189.25.148" target="_blank">218.189.25.148</a></td>
+   <td><a href="http://218.189.25.149" target="_blank">218.189.25.149</a></td>
+   <td><a href="http://218.189.25.150" target="_blank">218.189.25.150</a></td>
+   <td><a href="http://218.189.25.151" target="_blank">218.189.25.151</a></td>
+   <td><a href="http://218.189.25.152" target="_blank">218.189.25.152</a></td>
+  </tr>
+  <tr>
+   <td><a href="http://218.189.25.153" target="_blank">218.189.25.153</a></td>
+   <td><a href="http://218.189.25.154" target="_blank">218.189.25.154</a></td>
+   <td><a href="http://218.189.25.155" target="_blank">218.189.25.155</a></td>
+   <td><a href="http://218.189.25.156" target="_blank">218.189.25.156</a></td>
+   <td><a href="http://218.189.25.157" target="_blank">218.189.25.157</a></td>
+   <td><a href="http://218.189.25.158" target="_blank">218.189.25.158</a></td>
+  </tr>
+  <tr>
+   <td><a href="http://218.189.25.159" target="_blank">218.189.25.159</a></td>
+   <td><a href="http://218.189.25.160" target="_blank">218.189.25.160</a></td>
+   <td><a href="http://218.189.25.161" target="_blank">218.189.25.161</a></td>
+   <td><a href="http://218.189.25.162" target="_blank">218.189.25.162</a></td>
+   <td><a href="http://218.189.25.163" target="_blank">218.189.25.163</a></td>
+   <td><a href="http://218.189.25.164" target="_blank">218.189.25.164</a></td>
+  </tr>
+  <tr>
+   <td><a href="http://218.189.25.165" target="_blank">218.189.25.165</a></td>
+   <td><a href="http://218.189.25.166" target="_blank">218.189.25.166</a></td>
+   <td><a href="http://218.189.25.167" target="_blank">218.189.25.167</a></td>
+   <td><a href="http://218.189.25.168" target="_blank">218.189.25.168</a></td>
+   <td><a href="http://218.189.25.169" target="_blank">218.189.25.169</a></td>
+   <td><a href="http://218.189.25.170" target="_blank">218.189.25.170</a></td>
+  </tr>
+  <tr>
+   <td><a href="http://218.189.25.171" target="_blank">218.189.25.171</a></td>
+   <td><a href="http://218.189.25.172" target="_blank">218.189.25.172</a></td>
+   <td><a href="http://218.189.25.173" target="_blank">218.189.25.173</a></td>
+   <td><a href="http://218.189.25.174" target="_blank">218.189.25.174</a></td>
+   <td><a href="http://218.189.25.175" target="_blank">218.189.25.175</a></td>
+   <td><a href="http://218.189.25.176" target="_blank">218.189.25.176</a></td>
+  </tr>
+  <tr>
+   <td><a href="http://218.189.25.177" target="_blank">218.189.25.177</a></td>
+   <td><a href="http://218.189.25.178" target="_blank">218.189.25.178</a></td>
+   <td><a href="http://218.189.25.179" target="_blank">218.189.25.179</a></td>
+   <td><a href="http://218.189.25.180" target="_blank">218.189.25.180</a></td>
+   <td><a href="http://218.189.25.181" target="_blank">218.189.25.181</a></td>
+   <td><a href="http://218.189.25.182" target="_blank">218.189.25.182</a></td>
+  </tr>
+  <tr>
+   <td><a href="http://218.189.25.183" target="_blank">218.189.25.183</a></td>
+   <td><a href="http://218.189.25.184" target="_blank">218.189.25.184</a></td>
+   <td><a href="http://218.189.25.185" target="_blank">218.189.25.185</a></td>
+   <td><a href="http://218.189.25.186" target="_blank">218.189.25.186</a></td>
+   <td><a href="http://218.189.25.187" target="_blank">218.189.25.187</a></td>
+   <td colspan="1"></td>
+  </tr>
+  <tr>
+   <td colspan="6"><a href="#google-%E5%85%A8%E7%90%83-ip-%E5%9C%B0%E5%9D%80%E5%BA%93">Top</a></td>
+  </tr>
   <tr>
    <th colspan="6">Bulgaria</th>
   </tr>
@@ -262,93 +348,7 @@
   </tr>
   <tr>
    <td colspan="6"><a href="#google-%E5%85%A8%E7%90%83-ip-%E5%9C%B0%E5%9D%80%E5%BA%93">Top</a></td>
-  </tr>
-  <tr>
-   <th colspan="6">Hong Kong</th>
-  </tr>
-  <tr>
-   <td><a href="http://218.189.25.129" target="_blank">218.189.25.129</a></td>
-   <td><a href="http://218.189.25.130" target="_blank">218.189.25.130</a></td>
-   <td><a href="http://218.189.25.131" target="_blank">218.189.25.131</a></td>
-   <td><a href="http://218.189.25.132" target="_blank">218.189.25.132</a></td>
-   <td><a href="http://218.189.25.133" target="_blank">218.189.25.133</a></td>
-   <td><a href="http://218.189.25.134" target="_blank">218.189.25.134</a></td>
-  </tr>
-  <tr>
-   <td><a href="http://218.189.25.135" target="_blank">218.189.25.135</a></td>
-   <td><a href="http://218.189.25.136" target="_blank">218.189.25.136</a></td>
-   <td><a href="http://218.189.25.137" target="_blank">218.189.25.137</a></td>
-   <td><a href="http://218.189.25.138" target="_blank">218.189.25.138</a></td>
-   <td><a href="http://218.189.25.139" target="_blank">218.189.25.139</a></td>
-   <td><a href="http://218.189.25.140" target="_blank">218.189.25.140</a></td>
-  </tr>
-  <tr>
-   <td><a href="http://218.189.25.141" target="_blank">218.189.25.141</a></td>
-   <td><a href="http://218.189.25.142" target="_blank">218.189.25.142</a></td>
-   <td><a href="http://218.189.25.143" target="_blank">218.189.25.143</a></td>
-   <td><a href="http://218.189.25.144" target="_blank">218.189.25.144</a></td>
-   <td><a href="http://218.189.25.145" target="_blank">218.189.25.145</a></td>
-   <td><a href="http://218.189.25.146" target="_blank">218.189.25.146</a></td>
-  </tr>
-  <tr>
-   <td><a href="http://218.189.25.147" target="_blank">218.189.25.147</a></td>
-   <td><a href="http://218.189.25.148" target="_blank">218.189.25.148</a></td>
-   <td><a href="http://218.189.25.149" target="_blank">218.189.25.149</a></td>
-   <td><a href="http://218.189.25.150" target="_blank">218.189.25.150</a></td>
-   <td><a href="http://218.189.25.151" target="_blank">218.189.25.151</a></td>
-   <td><a href="http://218.189.25.152" target="_blank">218.189.25.152</a></td>
-  </tr>
-  <tr>
-   <td><a href="http://218.189.25.153" target="_blank">218.189.25.153</a></td>
-   <td><a href="http://218.189.25.154" target="_blank">218.189.25.154</a></td>
-   <td><a href="http://218.189.25.155" target="_blank">218.189.25.155</a></td>
-   <td><a href="http://218.189.25.156" target="_blank">218.189.25.156</a></td>
-   <td><a href="http://218.189.25.157" target="_blank">218.189.25.157</a></td>
-   <td><a href="http://218.189.25.158" target="_blank">218.189.25.158</a></td>
-  </tr>
-  <tr>
-   <td><a href="http://218.189.25.159" target="_blank">218.189.25.159</a></td>
-   <td><a href="http://218.189.25.160" target="_blank">218.189.25.160</a></td>
-   <td><a href="http://218.189.25.161" target="_blank">218.189.25.161</a></td>
-   <td><a href="http://218.189.25.162" target="_blank">218.189.25.162</a></td>
-   <td><a href="http://218.189.25.163" target="_blank">218.189.25.163</a></td>
-   <td><a href="http://218.189.25.164" target="_blank">218.189.25.164</a></td>
-  </tr>
-  <tr>
-   <td><a href="http://218.189.25.165" target="_blank">218.189.25.165</a></td>
-   <td><a href="http://218.189.25.166" target="_blank">218.189.25.166</a></td>
-   <td><a href="http://218.189.25.167" target="_blank">218.189.25.167</a></td>
-   <td><a href="http://218.189.25.168" target="_blank">218.189.25.168</a></td>
-   <td><a href="http://218.189.25.169" target="_blank">218.189.25.169</a></td>
-   <td><a href="http://218.189.25.170" target="_blank">218.189.25.170</a></td>
-  </tr>
-  <tr>
-   <td><a href="http://218.189.25.171" target="_blank">218.189.25.171</a></td>
-   <td><a href="http://218.189.25.172" target="_blank">218.189.25.172</a></td>
-   <td><a href="http://218.189.25.173" target="_blank">218.189.25.173</a></td>
-   <td><a href="http://218.189.25.174" target="_blank">218.189.25.174</a></td>
-   <td><a href="http://218.189.25.175" target="_blank">218.189.25.175</a></td>
-   <td><a href="http://218.189.25.176" target="_blank">218.189.25.176</a></td>
-  </tr>
-  <tr>
-   <td><a href="http://218.189.25.177" target="_blank">218.189.25.177</a></td>
-   <td><a href="http://218.189.25.178" target="_blank">218.189.25.178</a></td>
-   <td><a href="http://218.189.25.179" target="_blank">218.189.25.179</a></td>
-   <td><a href="http://218.189.25.180" target="_blank">218.189.25.180</a></td>
-   <td><a href="http://218.189.25.181" target="_blank">218.189.25.181</a></td>
-   <td><a href="http://218.189.25.182" target="_blank">218.189.25.182</a></td>
-  </tr>
-  <tr>
-   <td><a href="http://218.189.25.183" target="_blank">218.189.25.183</a></td>
-   <td><a href="http://218.189.25.184" target="_blank">218.189.25.184</a></td>
-   <td><a href="http://218.189.25.185" target="_blank">218.189.25.185</a></td>
-   <td><a href="http://218.189.25.186" target="_blank">218.189.25.186</a></td>
-   <td><a href="http://218.189.25.187" target="_blank">218.189.25.187</a></td>
-   <td colspan="1"></td>
-  </tr>
-  <tr>
-   <td colspan="6"><a href="#google-%E5%85%A8%E7%90%83-ip-%E5%9C%B0%E5%9D%80%E5%BA%93">Top</a></td>
-  </tr>
+  </tr
   <tr>
    <th colspan="6">Hong Kong</th>
   </tr>
