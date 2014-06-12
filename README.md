@@ -1,5 +1,6 @@
 ## Google 全球 IP 地址库
 
+<<=====>> [宽屏查看](./README.md) <<=====>>
 
 微博: [@SadieYuCN](http://weibo.com/u/3167337765)
 
