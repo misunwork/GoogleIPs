@@ -1,7 +1,7 @@
 ## Google 全球 IP 地址库
 
 
-微博: [@SadieYuCN](SadieYuCNhttp://weibo.com/sadieyucn)
+微博: [@SadieYuCNhttp://weibo.com/sadieyucn)
 
 <table>
  <tbody>
